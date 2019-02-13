@@ -1,0 +1,45 @@
+.to-b{
+    border: 2px solid  indianred;
+}
+
+body{
+    background-color: darkslateblue;
+}
+
+
+.bk-pic{
+    background: url('../images/portada-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.in-links{
+    color:white;
+}
+.in-links:hover{
+    color: white;
+    border-bottom:1px solid ghostwhite;
+    text-decoration: none;
+}
+
+
+
+/*---------------- Mis BreakPoint ----------------*/
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) { }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (max-width: 768px) { }
+
+/* Large devices (desktops, 992px and up)*/
+@media (max-width: 992px) { }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (max-width: 1200px) {
+    body{
+        background-color: firebrick;
+    }
+ }
