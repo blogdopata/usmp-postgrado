@@ -56,6 +56,14 @@ body{
     margin: 0;
 }
 
+
+/*   styles from programas */ 
+
+.bg-main{
+    background-color: darkslateblue;
+}
+
+
 /*---------------- Mis BreakPoint ----------------*/
 
 /* SM */
