@@ -57,11 +57,37 @@ body{
 }
 
 
-/*   styles from programas */ 
-
+/*  -------------- styles from programas ----------------- */ 
 .bg-main{
-    background-color: darkslateblue;
+    background-color: darkred;
 }
+.bg-phrase{
+    background-color:#7C7C7C;
+}
+.table-fix td{
+    padding: .30rem;
+}
+.a-link-programas:hover{
+    text-decoration: none;
+}
+
+.card-text{
+    color: #1F6FC6;
+}
+.card-body{
+    background-color: white;
+    transition: .5s;
+}
+.card-body:hover{
+    background-color: gainsboro;
+}
+
+
+
+
+/* --------------- Fin Styles Programas -------------------  */ 
+
+
 
 
 /*---------------- Mis BreakPoint ----------------*/
