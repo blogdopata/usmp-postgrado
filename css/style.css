@@ -84,10 +84,25 @@ body{
 
 
 
-
 /* --------------- Fin Styles Programas -------------------  */ 
 
+/* ---------------   Styles Por Carrera ---------------------- */
 
+.h4-titulo-programa{
+    color: darkgray;
+    font-size: 14px;
+}
+.text-programa{
+    line-height: 1.3em;
+}
+
+.text-title-fix{
+    font-family: 'Coiny', cursive;
+font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    font-size: 2.4em;
+    
+}
 
 
 /*---------------- Mis BreakPoint ----------------*/
