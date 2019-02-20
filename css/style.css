@@ -98,12 +98,19 @@ body{
 
 .text-title-fix{
     font-family: 'Coiny', cursive;
-font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     text-transform: uppercase;
     font-size: 2.4em;
     
 }
+.info-facultad{
+    margin: 0 0  0.1em 0;
+}
 
+.fix-icon{
+    margin-right: 10px;
+    background-color: ;
+}
 
 /*---------------- Mis BreakPoint ----------------*/
 
