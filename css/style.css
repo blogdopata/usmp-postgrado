@@ -6,8 +6,6 @@ body{
     background-color: white;
     font-size:16px;
 }
-
-
 .bk-pic{
     background: url('../images/portada-bg.jpg');
     background-repeat: no-repeat;
@@ -42,7 +40,6 @@ body{
     transition: 1s;
 }
 
-
 .bk-contenido{
     background-color: white;
 }
@@ -67,16 +64,30 @@ body{
 .table-fix td{
     padding: .30rem;
 }
+.a-link-programas{
+   
+    
+
+
+}
 .a-link-programas:hover{
     text-decoration: none;
+      background-color: gainsboro;
+
 }
 
 .card-text{
     color: #1F6FC6;
 }
 .card-body{
-    background-color: white;
+    
     transition: .5s;
+    padding: 0;
+    padding-top:10px;
+    display: block;
+
+  /*  border: 1px solid lightgray;*/
+
 }
 .card-body:hover{
     background-color: gainsboro;
@@ -130,6 +141,6 @@ body{
 /* Extra large devices (large desktops, 1200px and up)*/
 @media (max-width: 1200px) {
     body{
-        background-color: firebrick;
+     
     }
  }
