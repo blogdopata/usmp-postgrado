@@ -17,27 +17,7 @@
     <div class="container-fluid bg-main">
 
         <div class="container">
-            <div class="row  d-flex justify-content-between mb-0">
-
-                <div class="col-3">
-                    <picture>
-                        <a href="./"> <img src="images/posgrado-usmp.png" alt=""></a>
-                    </picture>
-                </div>
-
-                <div class="col-4  d-flex justify-content-end">
-
-                    <div class="col-6 d-flex justify-content-center align-items-center ">
-                        <a href="programas.html" class="in-links"> Programas </a>
-
-                    </div>
-                    <div class="col-6    d-flex justify-content-center align-items-center ">
-                        <a href="nosotros.html" class="in-links"> Nosotros</a>
-
-                    </div>
-                </div>
-
-            </div>
+            <?php include('blocks/header.html') ?>
         </div>
         <div class="row d-flex justify-content-center py-3 bg-phrase">
             <h1 class="text-white text-center">

@@ -148,7 +148,12 @@ li:before {
 
 /* SM */
 /*Small devices (landscape phones, 576px and up)*/
-@media (max-width: 576px) { }
+@media (max-width: 576px) { 
+
+    .principal-text{
+        font-size: 20px;
+    }
+}
 
 /*  MD */
 /* Medium devices (tablets, 768px and up)*/
