@@ -3,6 +3,15 @@
 #DirectoryIndex /IDHDES/calendario.html
 #DirectoryIndex /IDHDES/index.php
 
-RewriteEngine on
 
-RewriteRule  programas$ programas.html
+
+#RewriteEngine on
+#RewriteRule  programas$ programas.html 
+
+# añadir
+<FilesMatch "\.(ttf|otf|eot|woff|woff2)$">
+  <IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+  </IfModule>
+</FilesMatch>
+
