@@ -53,7 +53,7 @@
 
                     </tr>
                     <tr>
-                        <td><strong>Envio de Expedientes / <br>
+                        <td><strong>Envío de Expedientes / <br>
                                 Actas a la Oficina de Admisión:</strong></td>
                         <td> <br> 07 al 09 de Marzo</td>
                     </tr>
@@ -345,7 +345,7 @@
     <footer class="container-fluid bk-footer">
         <p class="text-center">
             Jr. Las Calandrias N° 151 – 291 Santa Anita, Lima - Perú. Teléfono: (511) 362-0064. <br>
-            Escuela de Postgrado - Universidad San Martin de Porres
+            Escuela de Posgrado - Universidad San Martin de Porres
         </p>
 
     </footer>

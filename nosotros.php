@@ -37,7 +37,7 @@
             <div class="col-12 col-md-6 text-center" >
                 <picture>
                     <img src="images/bao-garcia-01.jpg" alt="" class="img-fluid"> <br>
-                    <span class="text-center">El señor Vcerrector Ing. Raul Bao Garcia Inaugurando la Quinta Junta de Directores de las Unidades de Posgrado de la USMP el 21 de Febrero de 2018</span>
+                    <span class="text-center">El señor Vicerrector Ing. Raúl Bao García Inaugurando la Quinta Junta de Directores de las Unidades de Posgrado de la USMP el 21 de Febrero de 2018</span>
                 </picture>
 
             </div>
@@ -52,7 +52,7 @@
 
             <div class="col-12  col-md-6  mt-4 ">
                 <h4>PALABRAS DEL DR. MOISÉS TAMBINI DEL VALLE</h4>
-                <p class="text-justify">Es un honor para mi dirigir a la Escuela de Posgrado de la USMP “Fernando Elías Mantero”, que tiene la responsabilidad de integrar, promocionar, supervisar y controlar las actividades académicas y normativas de las Unidades de Posgrado de la Universidad de San Martín de Porres, promoviendo su excelencia académica en investigación científica, docencia universitaria y especialización, que posibiliten el mejor desempeño profesional de sus graduados. </p>
+                <p class="text-justify">Es un honor para mí dirigir a la Escuela de Posgrado de la USMP “Fernando Elías Mantero”, que tiene la responsabilidad de integrar, promocionar, supervisar y controlar las actividades académicas y normativas de las Unidades de Posgrado de la Universidad de San Martín de Porres, promoviendo su excelencia académica en investigación científica, docencia universitaria y especialización, que posibiliten el mejor desempeño profesional de sus graduados. </p>
             </div>
 
             <div class="col-12  col-md-6  mt-4 text-center ">
@@ -80,7 +80,7 @@
     <footer class="container-fluid bk-footer mt-5  ">
         <p class="text-center">
             Jr. Las Calandrias N° 151 – 291 Santa Anita, Lima - Perú. Teléfono: (511) 362-0064. <br>
-            Escuela de Postgrado - Universidad San Martin de Porres
+            Escuela de Posgrado - Universidad San Martin de Porres
         </p>
 
     </footer>
